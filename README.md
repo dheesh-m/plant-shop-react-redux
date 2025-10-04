@@ -1,3 +1,4 @@
+Dheesh Medekar a e comm plant website 
 # coding-project-template
 # 50 points, 19 tasks
 # GitHub (6 points)
@@ -34,12 +35,7 @@
 
 # Navigation to either of the other pages: 2 points
 
-# Shopping cart page (23 points)
-# The total number of plants in the cart: 2 points
 
-# The total cost of all items in the cart: 2 points
-
-# A checkout button (displays the message “Coming Soon” or similar): 1 point
 
 # A continue shopping button that links to the product listing page: 2 points
 
