@@ -9,7 +9,7 @@ Dheesh Medekar a e comm plant website
 # Landing page (5 points)
 # Background image: 1 point
 
-# Paragraph about the company: 1 point
+
 
 # Company name: 1 point
 
